@@ -3,6 +3,7 @@
 ## Notes: Keeps your chosen companion pet summoned.
 ## Author: Zyx <heckertobias@googlemail.com>
 ## Version: 1.0.0
+## IconTexture: Interface\AddOns\MiniCompanion\media\icon
 ## OptionalDeps: Rematch
 ## SavedVariablesPerCharacter: MiniCompanionDB
 ## X-License: MIT
