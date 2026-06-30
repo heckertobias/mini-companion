@@ -1,0 +1,12 @@
+package-as: MiniCompanion
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+ignore:
+    - .vscode
+    - .gitignore
+    - CLAUDE.md
+    - .claude
+    - README.md

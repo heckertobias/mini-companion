@@ -1,0 +1,11 @@
+## Interface: 120007
+## Title: Mini-Companion
+## Notes: Keeps your chosen companion pet summoned.
+## Author: Zyx <heckertobias@googlemail.com>
+## Version: 1.0.0
+## OptionalDeps: Rematch
+## SavedVariablesPerCharacter: MiniCompanionDB
+## X-License: MIT
+
+Core.lua
+PetJournalUI.lua
