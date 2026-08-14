@@ -1,8 +1,8 @@
-## Interface: 120007
+## Interface: 120100
 ## Title: Mini-Companion
 ## Notes: Keeps your chosen companion pet summoned.
 ## Author: Zyx <heckertobias@googlemail.com>
-## Version: 1.0.0
+## Version: 1.0.1
 ## IconTexture: Interface\AddOns\MiniCompanion\media\icon
 ## OptionalDeps: Rematch
 ## SavedVariablesPerCharacter: MiniCompanionDB

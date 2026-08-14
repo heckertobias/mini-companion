@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.0.1] - 2026-08-14
+- updated for World of Warcraft 12.1.0
+
 ## [1.0.0] - 2026-06-30
 - initial release
 - keeps your chosen companion pet summoned: re-summons it when you start moving if it isn't already out
